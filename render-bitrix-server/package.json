@@ -1,10 +1,10 @@
 {
-  "name": "everhour",
+  "name": "Bitrix24",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "nodemon src",
     "test": "dfsfsf"
   },
   "keywords": [],
